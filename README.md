@@ -13,3 +13,5 @@ Proposed improvements
 - Make the website better scale for mobile resolutions
 
 Prototype: https://www.figma.com/proto/6PF8bCEjbOsookIDgNAmks/UX-Bootcamp-Case-Study?node-id=59-799&t=NQiifB9FisY9GOEA-1
+
+![image](https://github.com/user-attachments/assets/1439f18b-8de2-45bb-bf54-05971e8e992f)
